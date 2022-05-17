@@ -31,7 +31,7 @@ $ npm start
 
 ## Collaborators
 
-- [Vonn Ryann Cruz](#https://github.com/VonnnRyann)
-- [Marco De Tommaso](#https://github.com/Deto-Marco)
-- [Findana Nafuka](#https://github.com/Findana)
-- [Andrija Petrovic](#https://github.com/Andrija1986)
+- [Vonn Ryann Cruz](https://github.com/VonnnRyann)
+- [Marco De Tommaso](https://github.com/Deto-Marco)
+- [Findana Nafuka](https://github.com/Findana)
+- [Andrija Petrovic](https://github.com/Andrija1986)
