@@ -5,6 +5,7 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
+- [Collaborators](#collaborators)
 
 ## General info
 
@@ -30,7 +31,7 @@ $ npm start
 
 ## Collaborators
 
-- Vonn Ryann Cruz
-- Marco De Tommaso
-- Findana Nafuka
-- Andrija Petrovic
+- [Vonn Ryann Cruz](https://github.com/VonnnRyann)
+- [Marco De Tommaso](https://github.com/Deto-Marco)
+- [Findana Nafuka](https://github.com/Findana)
+- [Andrija Petrovic](https://github.com/Andrija1986)
